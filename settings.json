@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Atom One Dark",
     "workbench.colorCustomizations": {
         "editor.background": "#222",
-        "activityBar.background": "#252525"
+        "activityBar.background": "#252525",
         "sideBar.background": "#252525"
     }
 }
